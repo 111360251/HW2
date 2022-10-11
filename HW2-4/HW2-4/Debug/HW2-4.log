@@ -1,0 +1,4 @@
+﻿  Main.c
+c:\coding\hw2\hw2-4\hw2-4\main.c(25): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\coding\hw2\hw2-4\hw2-4\main.c(26): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  HW2-4.vcxproj -> C:\Coding\HW2\HW2-4\Debug\HW2-4.exe
