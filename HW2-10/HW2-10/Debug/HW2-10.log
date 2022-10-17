@@ -1,0 +1,4 @@
+﻿  Main.c
+c:\coding\hw2\hw2-10\hw2-10\main.c(7): warning C4101: 'a': 未參考的區域變數
+c:\coding\hw2\hw2-10\hw2-10\main.c(7): warning C4101: 'b': 未參考的區域變數
+  HW2-10.vcxproj -> C:\Coding\HW2\HW2-10\Debug\HW2-10.exe

@@ -1,0 +1,4 @@
+﻿  Main.c
+c:\coding\hw2\hw2-6\hw2-6\main.c(17): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\coding\hw2\hw2-6\hw2-6\main.c(7): warning C4101: 'j': 未參考的區域變數
+  HW2-6.vcxproj -> C:\Coding\HW2\HW2-6\Debug\HW2-6.exe
